@@ -22,3 +22,4 @@ echo "A directoria -> $diretoria foi comprimida com sucesso"
 else
 echo "Falha ao comprimir a directoria -> $diretoria, Codigo Erro identificado -> $tar_status"
 fi
+# Finalizado
